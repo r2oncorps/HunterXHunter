@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1078307779496",
+    "project_id": "dinohunter-f025f",
+    "storage_bucket": "dinohunter-f025f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078307779496:android:79b92319700bf76f11a39d",
+        "android_client_info": {
+          "package_name": "com.monoverse.dinohunter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078307779496-aodpi0vdn1l1g2erv1q53shk3fviv5c2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.monoverse.dinohunter",
+            "certificate_hash": "e5797275a422a2080e7b96db0f88e16f16125178"
+          }
+        },
+        {
+          "client_id": "1078307779496-vu5huuoettdd2c43l5kol5v9ttja7dql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcFCMkNA_ADcFh1mPAoCno7JOZytYUTvk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078307779496-vu5huuoettdd2c43l5kol5v9ttja7dql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
